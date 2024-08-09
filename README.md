@@ -1,6 +1,6 @@
 <h2 align="left">Oi 👋! Meu nome é Pedro Yokada, tenho 26 anos e sou entusiasta da area de tecnologia.</h2>
 
-### Linguagens que utilizo:
+### Linguagens e ferramentas que utilizo:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
