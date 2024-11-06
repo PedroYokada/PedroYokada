@@ -42,11 +42,12 @@
 
 <div align="center">
   <h3>🌐 Conecte-se comigo:</h3>
-  <a href="https://www.linkedin.com/in/pedroyokada](https://www.linkedin.com/in/pedro-yokada-a20385114" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-yokada-a20385114" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br><br>
 </div>
+
 
 
 
