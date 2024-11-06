@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h3>📈 Linguagens e ferramentas que utilizo:</h3>
+  <h3>💻 Linguagens e ferramentas que utilizo:</h3>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
