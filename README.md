@@ -1,8 +1,10 @@
 <h2 align="left">Oi 👋! Meu nome é Pedro Yokada, tenho 26 anos e sou entusiasta da área de tecnologia.</h2>
 
-### Linguagens e ferramentas que utilizo:
 
-<div align="left">
+
+<div align="center">
+  <h3>📈 Linguagens e ferramentas que utilizo:</h3>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -20,19 +22,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="background-color: white;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <br>
 </div>
-
-### 📈 Histórico de Commits e Linguagens Mais Usadas:
 
 <div align="center">
+  <h3>📈 Histórico de Commits:</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroYokada&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroYokada&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
-### 📊 Atividade de Commits:
+<div align="center">
+  <h3>🔍 Linguagens Mais Usadas:</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroYokada&theme=radical" alt="Gráfico de Pizza das Linguagens" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroYokada&theme=light)](https://github.com/PedroYokada)
-
+<div align="center">
+  <h3>📊 Atividade de Commits:</h3>
+  <a href="https://github.com/PedroYokada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroYokada&theme=radical" alt="Atividade de Commits" />
+  </a>
+</div>
 
 
 
