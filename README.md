@@ -57,12 +57,14 @@
 
 <div align="center">
   <h3>📊 Resumo das Atividades no GitHub</h3>
-  <p>Veja detalhes das minhas contribuições e principais linguagens:</p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroYokada&theme=radical" alt="Resumo das Atividades" />
+  <p>Principais linguagens que utilizo:</p>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroYokada&theme=radical" alt="Linguagens Mais Usadas" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroYokada&theme=radical" alt="Estatísticas do GitHub" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroYokada&theme=radical" alt="Linguagens por Repositório" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroYokada&theme=radical" alt="Linguagens por Commits" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
+  </div>
 </div>
+
 
 ---
 
