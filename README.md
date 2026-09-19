@@ -475,15 +475,7 @@ alt="Cuidado com a cobrinha"
 
 ---
 
-<div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/PedroYokada/PedroYokada/output/github-contribution-grid-snake.gif"
-  width="100%"
-  alt="Cobrinha animada com as contribuições de Pedro Yokada"
-/>
-
-</div>
 
 > **💻 Tecnologia para construir.**
 > **🎨 Design para tornar utilizável.**
