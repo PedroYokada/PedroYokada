@@ -474,8 +474,9 @@ alt="Cobrinha animada com as contribuições de Pedro Yokada"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0A66C2&height=55&text=O%20que%20conecta%20tudo%20isso%3F&fontSize=28&fontColor=ffffff&animation=fadeIn"
-alt="O que conecta tudo isso"
+  src="https://raw.githubusercontent.com/PedroYokada/PedroYokada/output/github-contribution-grid-snake.gif"
+  width="100%"
+  alt="Cobrinha animada com as contribuições de Pedro Yokada"
 />
 
 </div>
